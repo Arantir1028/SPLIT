@@ -1,0 +1,19 @@
+{
+    "child_model_execute_cost_by_ms": [
+        46.231998443603516
+    ],
+    "child_model_run_time": [
+        [
+            14882631,
+            14928863
+        ]
+    ],
+    "execute_cost": 46.231998443603516,
+    "finish_time": 14928871,
+    "limit_cost_by_ms": 47.40133285522461,
+    "model_name": "vgg19",
+    "recv_time": 14882530,
+    "tag": "308",
+    "total_cost_by_ms": 46.340999603271484,
+    "wait_cost": 0.10900115966796875
+}

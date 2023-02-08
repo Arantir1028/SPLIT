@@ -1,0 +1,19 @@
+{
+    "child_model_execute_cost_by_ms": [
+        7.716000080108643
+    ],
+    "child_model_run_time": [
+        [
+            14214471,
+            14222187
+        ]
+    ],
+    "execute_cost": 7.716000080108643,
+    "finish_time": 14222198,
+    "limit_cost_by_ms": 7.394000053405762,
+    "model_name": "squeezenetv1",
+    "recv_time": 14201030,
+    "tag": "277",
+    "total_cost_by_ms": 21.167999267578125,
+    "wait_cost": 13.45199966430664
+}

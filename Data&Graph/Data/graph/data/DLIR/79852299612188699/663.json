@@ -1,0 +1,24 @@
+{
+    "child_model_execute_cost_by_ms": [
+        3.2249999046325684,
+        4.36299991607666
+    ],
+    "child_model_run_time": [
+        [
+            22504299,
+            22507524
+        ],
+        [
+            22507615,
+            22511978
+        ]
+    ],
+    "execute_cost": 7.5879998207092285,
+    "finish_time": 22511982,
+    "limit_cost_by_ms": 5.822333335876465,
+    "model_name": "yolov2",
+    "recv_time": 22498142,
+    "tag": "664",
+    "total_cost_by_ms": 13.84000015258789,
+    "wait_cost": 6.252000331878662
+}
